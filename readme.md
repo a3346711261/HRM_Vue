@@ -8,9 +8,9 @@ https://nodejs.org/en/
 
 ### 2. 安装包依赖
 
-```sh
-yarn
-```
+
+cnpm install
+cnpm install mockjs
 
 ### 3. 配置 API 地址
 
@@ -44,35 +44,4 @@ module.exports = {
 
 ### 4. 运行
 
-```sh
-npm start
-```
-
-## 资源
-
-- 前端 vue
-  http://git.itcast.cn/development/project-saas-hrm-vue.git
-
-- 后端 java
-  http://git.itcast.cn/course/project-saas-hrm-java-api.git
-
-- 后端 java 配置中心
-  http://git.itcast.cn/development/project-saas-hrm-java-config.git
-
-- UED 产品业务原型
-  http://research.itcast.cn/itcast-frontpage/SaaS-HRM
-
-- API 接口设计与 Mock
-  https://mock.boxuegu.com/project/29/interface/api
-
-- 持续集成 外网域名
-  http://hrm.research.itcast.cn
-
-- 代码质量分析
-  http://sonar.itcast.cn/projects
-
----
-
-
-
- &nbsp;版权所有 Copyright 2006-2018, All Rights Reserved
+npm run dev
