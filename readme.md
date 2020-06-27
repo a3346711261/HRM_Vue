@@ -20,3 +20,7 @@ cnpm install mockjs
 ### 4. 运行
 
 npm run dev
+
+### 后端代码
+
+https://github.com/a3346711261/HRM/blob/master/README.md
